@@ -33,10 +33,16 @@ caption: Whether the video has captions
 
 song_name: Extracted song name from the title
 
+
 Data Cleaning
+
 Handling Missing Values: The dataset had 3 missing values in the description column, which were dropped.
 
-Extracting Song Names: The song_name column was created by extracting the main song name from the title column.
+
+Extracting Song Names: 
+
+The song_name column was created by extracting the main song name from the title column.
+
 
 Analysis
 
@@ -51,6 +57,7 @@ The top 5 songs with the highest like counts were identified and visualized usin
 Top 5 Songs by Comment Count
 
 The top 5 songs with the highest comment counts were identified.
+
 
 Visualizations
 
