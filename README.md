@@ -67,3 +67,6 @@ Conclusion
 
 This analysis provides insights into the popularity of songs on YouTube based on views, likes, and comments. The visualizations help in understanding which songs perform best in terms of engagement.
 
+![a-logo-for-a-music-company-that-is-made-by-song-brand-vector](https://github.com/user-attachments/assets/0ac7080c-148c-4bd3-9dd7-0bbbafd03bbb)
+
+
